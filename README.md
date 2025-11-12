@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Prachi Chauhan
+##  Hi, I’m Prachi Chauhan
 
 * I’m a B.Tech student (2023–2027) passionate about coding and emerging technologies.  
 * I work with **Python** and am learning **Data Structures and Algorithms in python**.  
