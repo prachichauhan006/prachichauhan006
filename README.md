@@ -2,7 +2,7 @@
 
 * I’m a B.Tech student (2023–2027) passionate about coding and emerging technologies.  
 * I work with **Python** and am learning **Data Structures and Algorithms in python**.  
-* I'm exploring **Prompt Engineering** and **Cybersecurity concepts**.  
+* I'm exploring **Prompt Engineering** and **Cybersecurity concepts**.   
 * I’ve built fun and beginner-friendly projects like:
 
 - [Tic-Tac-Toe](https://github.com/prachichauhan006/Tic-Tac-Toe)
