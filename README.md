@@ -16,17 +16,20 @@ I enjoy building practical projects that improve problem-solving skills and codi
 - Programming: Python, Java (DSA)  
 - Tools: Git, GitHub, VS Code, Streamlit  
 - Concepts: Data Structures, Algorithms, Prompt Engineering, Cybersecurity basics  
-- Interests: AI projects, automation tools, educational mini-projects
+- Interests: AI applications, automation tools, educational projects
 
 ---
 
 ## Projects
-- **Tic-Tac-Toe** – Classic 2-player game in Python  
-- **Snake Water Gun Game** – Command-line interactive game  
-- **Fake Headline Generator** – Python-based text generator  
-- **Calculator with History** – Stores calculation history  
-- **Password Guessing Game** – Logical password guessing tool  
-- **Adaptive Learning Quiz** – Smart quiz app (in progress)
+
+| Project | Description | Focus/Skills |
+|---------|------------|--------------|
+| **Adaptive Learning Quiz** | A smart quiz application that adapts difficulty based on user performance. | Python, logic, adaptive algorithms, user interaction |
+| **Tic-Tac-Toe** | Classic 2-player game in Python | Python, game logic, input validation |
+| **Snake Water Gun Game** | Command-line interactive game | Python, randomization, user input |
+| **Fake Headline Generator** | Generates fake headlines | Python, string manipulation, text generation |
+| **Calculator with History** | Performs calculations and stores history | Python, data structures, file handling |
+| **Password Guessing Game** | Attempts to guess a password logically | Python, loops, conditionals, algorithmic thinking |
 
 All projects are available in [my GitHub repositories](https://github.com/prachichauhan006?tab=repositories).
 
@@ -44,6 +47,7 @@ All projects are available in [my GitHub repositories](https://github.com/prachi
 - Email: prachisisodia222@gmail.com  
 - LeetCode: [https://leetcode.com/Prachi_chauhan_006/](https://leetcode.com/Prachi_chauhan_006/)  
 - Location: Seohara, Uttar Pradesh, India
+
 
 
 ---
