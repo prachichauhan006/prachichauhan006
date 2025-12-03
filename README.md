@@ -35,9 +35,11 @@ Each project focuses on improving logical thinking, code structuring, and practi
 ---
 
 ## GitHub Overview
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=false&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&layout=compact&theme=default)
+
 
 ---
 
