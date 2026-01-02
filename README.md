@@ -24,14 +24,9 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 ## 🚀 Current Status
 
 <div align="center">
-
-💻 **Currently Working On:** Adaptive Learning Quiz – an intelligent Python quiz system that adjusts difficulty based on performance.  
-
-📚 **Currently Learning:** Advanced Data Structures & Algorithms, Prompt Engineering, and Cybersecurity fundamentals.  
-
-🔍 **Focus Areas:** Python, Web Development (Flask & Streamlit), Database Management, AI Integration  
-
+  <img src="YOUR_GENERATED_SVG_URL_HERE" alt="Current Status Animation" />
 </div>
+
 
 
 ## 🏆 GitHub Trophies
