@@ -1,12 +1,15 @@
-## About Me
+## 👋 About Me
 
-Hello! I'm **Prachi Chauhan**, a B.Tech student (2023–2027) specializing in Python development and software engineering fundamentals.  
-I build practical applications with clean, modular code and continuously improve through real project experience.
+Hello! I'm **Prachi Chauhan**, a B.Tech student (2023–2027) from Seohara, Uttar Pradesh, India.  
+I’m passionate about **Python development**, **Data Structures & Algorithms**, and exploring **Prompt Engineering & Cybersecurity**.  
 
-I am currently:
-- Strengthening my foundation in **Data Structures & Algorithms (Python)**
-- Exploring **Prompt Engineering** and **Cybersecurity**
-- Developing scalable and efficient solutions using modern tools and frameworks
+I love building projects that are **clean, efficient, and practical**.  
+Currently, I am working on **adaptive learning systems**, small games, and other beginner-friendly projects to strengthen my coding skills.
+
+💡 **Key Interests:** Python | DSA | Prompt Engineering | Cybersecurity | Web Development  
+
+📈 **Goal:** To grow as a software developer by building real-world projects, learning modern technologies, and delivering structured solutions.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-techvision) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prachisisodia222@gmail.com) 
