@@ -1,4 +1,15 @@
+
 ## 👋 About Me
+<!-- Top Section / About Me -->
+<div align="center">
+
+![Programmer Cartoon](https://e0.pxfuel.com/wallpapers/382/23/desktop-wallpaper-programmer-cartoon-animated-cartoon-illustration-animation-art-play-games-child-sharing-recreation-python-programming-language.jpg)
+
+# Hi, I’m Prachi Chauhan 👋
+**B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity**
+
+</div>
+
 
 Hello! I'm **Prachi Chauhan**, a B.Tech student (2023–2027) from Seohara, Uttar Pradesh, India.  
 I’m passionate about **Python development**, **Data Structures & Algorithms**, and exploring **Prompt Engineering & Cybersecurity**.  
