@@ -22,15 +22,8 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
-  <h2 style="display:inline;">Hi, I’m Prachi Chauhan 👋</h2>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100" alt="Snake animation" style="display:inline;"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Smiling animation"/>
 </div>
-
-
-
-
-
-
 
 
 ## 🏆 GitHub Trophies
