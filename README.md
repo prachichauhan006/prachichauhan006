@@ -21,13 +21,11 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 ![](https://nirzak-streak-stats.vercel.app/?user=prachichauhan006&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 Snake Game
-
-[Check out Snake Game Repo](https://github.com/prachichauhan006/snake-water-gun)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prachichauhan006/snake-water-gun/main/snake.gif" width="200" alt="Snake Game Animation"/>
+  <h2 style="display:inline;">Hi, I’m Prachi Chauhan 👋</h2>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100" alt="Snake animation" style="display:inline;"/>
 </div>
+
 
 
 
