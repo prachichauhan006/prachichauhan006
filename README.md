@@ -2,13 +2,16 @@
 ## 👋 About Me
 <!-- Top Section / About Me -->
 <div align="center">
+  <img 
+    src="https://e0.pxfuel.com/wallpapers/382/23/desktop-wallpaper-programmer-cartoon-animated-cartoon-illustration-animation-art-play-games-child-sharing-recreation-python-programming-language.jpg"
+    width="350"
+    alt="Programmer illustration"
+  />
 
-![Programmer Cartoon](https://e0.pxfuel.com/wallpapers/382/23/desktop-wallpaper-programmer-cartoon-animated-cartoon-illustration-animation-art-play-games-child-sharing-recreation-python-programming-language.jpg)
-
-# Hi, I’m Prachi Chauhan 👋
-**B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity**
-
+  # Hi, I’m Prachi Chauhan 👋
+  **B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity**
 </div>
+
 
 💡 **Key Interests:** Python | DSA | Prompt Engineering | Cybersecurity | Web Development  
 
