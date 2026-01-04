@@ -34,8 +34,15 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prachichauhan006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=prachichauhan006&theme=onedark&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</div>
+
 
 
 ### 🔝 Top Contributed Repo
