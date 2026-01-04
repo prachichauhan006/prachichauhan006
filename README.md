@@ -8,7 +8,7 @@
     alt="Programmer illustration"
   />
 
-  # Hi, I’m Prachi Chauhan 👋
+   # Hi, I’m Prachi Chauhan 👋
   **B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity**
 </div>
 
