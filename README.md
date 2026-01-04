@@ -3,14 +3,15 @@
 <!-- Top Section / About Me -->
 <div align="center">
   <img 
-    src="https://e0.pxfuel.com/wallpapers/382/23/desktop-wallpaper-programmer-cartoon-animated-cartoon-illustration-animation-art-play-games-child-sharing-recreation-python-programming-language.jpg"
-    width="350"
-    alt="Programmer illustration"
+    src="https://png.pngtree.com/png-clipart/20220823/original/pngtree-cartoon-cute-funny-python-snake-on-jungle-tree-png-image_8450227.png"
+    width="260"
+    alt="Python Snake"
   />
 
-   # Hi, I’m Prachi Chauhan 👋
-  **B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity**
+  ### Hi, I’m Prachi Chauhan 👋
+  *B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity*
 </div>
+
 
 
 💡 **Key Interests:** Python | DSA | Prompt Engineering | Cybersecurity | Web Development  
