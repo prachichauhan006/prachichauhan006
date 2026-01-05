@@ -2,8 +2,9 @@
 ## 👋 About Me
 <!-- Top Section / About Me -->
 <div align="center">
-  <img src="assets/banner.png" alt="Prachi Chauhan Banner" width="100%" />
+  <img src="https://imgcdn.stablediffusionweb.com/2025/1/30/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="Prachi Chauhan Banner" width="100%" />
 </div>
+
 
 
   ### Hi, I’m Prachi Chauhan 👋
