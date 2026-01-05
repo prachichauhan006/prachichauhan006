@@ -1,17 +1,17 @@
 
 ## 👋 About Me
-<!-- Top Section / About Me -->
 <div align="center">
-  <img src="https://imgcdn.stablediffusionweb.com/2025/1/30/d18632b5-1665-4024-964a-717449d349d3.jpg" alt="Prachi Chauhan Banner" width="100%" />
-</div>
+  <img 
+    src="https://png.pngtree.com/png-clipart/20220823/original/pngtree-cartoon-cute-funny-python-snake-on-jungle-tree-png-image_8450227.png"
+    width="260"
+    alt="Python Snake"
+  />
 
+Hello! I'm **Prachi Chauhan**, a B.Tech student (2023–2027) from Seohara, Uttar Pradesh, India.  
+I’m passionate about **Python development**, **Data Structures & Algorithms**, and exploring **Prompt Engineering & Cybersecurity**.  
 
-
-  ### Hi, I’m Prachi Chauhan 👋
-  *B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity*
-</div>
-
-
+I love building projects that are **clean, efficient, and practical**.  
+Currently, I am working on **adaptive learning systems**, small games, and other beginner-friendly projects to strengthen my coding skills.
 
 💡 **Key Interests:** Python | DSA | Prompt Engineering | Cybersecurity | Web Development  
 
@@ -32,7 +32,6 @@
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -41,8 +40,6 @@
     alt="GitHub Trophies"
   />
 </div>
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prachichauhan006&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
