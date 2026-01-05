@@ -2,11 +2,9 @@
 ## 👋 About Me
 <!-- Top Section / About Me -->
 <div align="center">
-  <img 
-    src="https://png.pngtree.com/png-clipart/20220823/original/pngtree-cartoon-cute-funny-python-snake-on-jungle-tree-png-image_8450227.png"
-    width="260"
-    alt="Python Snake"
-  />
+  <img src="assets/banner.png" alt="Prachi Chauhan Banner" width="100%" />
+</div>
+
 
   ### Hi, I’m Prachi Chauhan 👋
   *B.Tech CSE Student | Python Developer | Learning AI & Cybersecurity*
