@@ -1,12 +1,13 @@
-
 ## 👋 About Me
+
 <div align="center">
   <img 
     src="https://png.pngtree.com/png-clipart/20220823/original/pngtree-cartoon-cute-funny-python-snake-on-jungle-tree-png-image_8450227.png"
     width="260"
     alt="Python Snake"
   />
-
+  
+##
 Hello! I'm **Prachi Chauhan**, a B.Tech student (2023–2027) from Seohara, Uttar Pradesh, India.  
 I’m passionate about **Python development**, **Data Structures & Algorithms**, and exploring **Prompt Engineering & Cybersecurity**.  
 
