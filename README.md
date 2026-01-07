@@ -21,6 +21,11 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 ![](https://nirzak-streak-stats.vercel.app/?user=prachichauhan006&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prachichauhan006&theme=onedark&no-frame=true&row=1&column=6"/>
+</div>
+
 ## fun repo view
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
