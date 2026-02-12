@@ -32,15 +32,16 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 <div align="center"> 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
-## 📊 GitHub Stats
+## 📌 GitHub Activity Overview
+![Commits](https://img.shields.io/github/commit-activity/y/prachichauhan006)
+![Last Commit](https://img.shields.io/github/last-commit/prachichauhan006/prachichauhan006)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue)
+![Active Since](https://img.shields.io/badge/Active%20Days-Contribution%20Graph-green)
 
-<div align="center">
+📅 **Work Consistency:**  
+👉 Check green contribution graph above (days worked)  
+👉 Total work = commits + active days + repositories
 
-<img src="https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachichauhan006&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 
