@@ -21,8 +21,6 @@ Currently, I am working on **adaptive learning systems**, small games, and other
 ![](https://nirzak-streak-stats.vercel.app/?user=prachichauhan006&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=prachichauhan006&theme=tokyonight&no-frame=true)
 
 
 
