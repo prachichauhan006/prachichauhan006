@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Hello! I'm Prachi Chauhan, a B.Tech student (2023–2027) from Seohara, Uttar Pradesh, India.<br>I’m passionate about Python development, Data Structures & Algorithms, and exploring Prompt Engineering & Cybersecurity.<br><br>I love building projects that are clean, efficient, and practical.<br>Currently, I am working on adaptive learning systems, small games, and other beginner-friendly projects to strengthen my coding skills.<br><br> Key Interests: Python | DSA | Prompt Engineering | Cybersecurity <br><br>Goal: To grow as a software developer by building real-world projects, learning modern technologies, and delivering structured solutions.</p>
+<p align="left">Hello! I'm Prachi Chauhan, a B.Tech student (2023–2027) .<br>I’m passionate about Python development, Data Structures & Algorithms, and exploring Prompt Engineering & Cybersecurity.<br><br>I love building projects that are clean, efficient, and practical.<br>Currently, I am working on adaptive learning systems, small games, and other beginner-friendly projects to strengthen my coding skills.<br><br> Key Interests: Python | DSA | Prompt Engineering | Cybersecurity <br><br>Goal: To grow as a software developer by building real-world projects, learning modern technologies, and delivering structured solutions.</p>
 
 ###
 
