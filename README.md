@@ -131,6 +131,19 @@ Desktop quiz app that adapts question difficulty based on real-time user perform
   <img src="https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" height="160"/>
 </p>
+##
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prachichauhan006&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+## fun repo view
+<div align="center"> 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
+
+
 
 ---
 
