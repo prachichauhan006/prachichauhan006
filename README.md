@@ -12,7 +12,7 @@ B.Tech CSE student at AKTU (2027), passionate about building real-world projects
 - ✅ Recently shipped: **Smart Job Application Tracker** (Python + OOPs + Email Automation)
 - 🧠 Solving DSA problems daily on LeetCode — 150+ solved
 - 🌱 Exploring: Cybersecurity, Prompt Engineering
-- 💼 Open to: Python Developer / Software Engineering Internships
+- 💼 Open to: Python Developer / Software Engineering Internships  
 
 ---
 
