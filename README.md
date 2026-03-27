@@ -1,6 +1,6 @@
 # Hi, I'm Prachi Chauhan 👩‍💻
 
-**Python Developer | Building React + FastAPI Projects | DSA | Open to Internship 2026** 
+**Full stack  Developer | Building React + FastAPI Projects | DSA | Open to Internship 2026** 
 
 ---
 
