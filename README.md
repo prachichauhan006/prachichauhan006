@@ -3,7 +3,7 @@
 **Full stack  Developer | Building React + FastAPI Projects | DSA | Open to Internship 2026** 
 
 ---
-
+  
 ## About Me
 
 B.Tech CSE student at AKTU (2027), passionate about building real-world projects that solve actual problems — not just college assignments.
