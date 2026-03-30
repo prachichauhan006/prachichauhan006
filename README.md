@@ -52,7 +52,7 @@ prachi = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 ---
 
@@ -70,21 +70,6 @@ prachi = {
 **Stack:** `React.js` `FastAPI` `Python` `GitHub REST API` `Recharts` `OAuth2`
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prachichauhan006/devpulse-analyzer)
-
----
-
-### 🌦️ Weather App
-
-> A clean, responsive weather app delivering real-time weather data for any city worldwide.
-
-- 🔎 Search by city name with instant results
-- 🌡️ Displays temperature, humidity, wind speed & conditions
-- 🎨 Dynamic UI updates based on weather state
-- 🌐 Built with vanilla JS — zero dependencies
-
-**Stack:** `HTML` `CSS` `JavaScript` `OpenWeather API`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prachichauhan006/weather-app)
 
 ---
 
