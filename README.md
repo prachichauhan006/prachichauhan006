@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # Hey, I'm Prachi Chauhan 👩‍💻
 
 ### Full Stack Developer • DSA Enthusiast • Open to Internships 2026
