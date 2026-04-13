@@ -24,7 +24,7 @@ prachi = {
     "college"    : "AKTU — B.Tech CSE, 2027",
     "building"   : "DevPulse — GitHub Analytics Dashboard",
     "dsa"        : "150+ LeetCode problems solved",
-    "exploring"  : ["Cybersecurity", "Prompt Engineering"],
+    "exploring"  : ["full stack development"],
     "open_to"    : "Python / Software Engineering Internships 2026"
 }
 ```
