@@ -2,7 +2,7 @@
  
 # Hey, I'm Prachi Chauhan 👩‍💻
 
-### Full Stack Developer • DSA Enthusiast • Open to Internships 2026
+### Full Stack Developer • DSA Enthusiast • Open to Internships 2026 
 
 *B.Tech CSE @ AKTU (2027) — Building real-world projects, not just assignments.*
 
