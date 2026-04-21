@@ -20,7 +20,7 @@
 
 ```python
 prachi = {
-    "role"       : "Full Stack Developer ,
+    "role"       : "Full Stack Developer" ,
     "college"    : "AKTU — B.Tech CSE, 2027",
     "building"   : "DevPulse — GitHub Analytics Dashboard",
     "dsa"        : "150+ LeetCode problems solved",
