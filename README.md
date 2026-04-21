@@ -20,7 +20,7 @@
 
 ```python
 prachi = {
-    "role"       : "Full Stack Developer (React + FastAPI)",
+    "role"       : "Full Stack Developer ,
     "college"    : "AKTU — B.Tech CSE, 2027",
     "building"   : "DevPulse — GitHub Analytics Dashboard",
     "dsa"        : "150+ LeetCode problems solved",
@@ -58,7 +58,7 @@ prachi = {
 
 ## 🚀 Featured Projects
 
-### 🔍 DevPulse — Developer Productivity & Code Health Analyzer *(In Progress)*
+### 🔍 DevPulse — Developer Productivity & Code Health Analyzer 
 
 > A full-stack GitHub analytics dashboard that helps developers track their productivity, code health, and contribution patterns.
 
