@@ -1,37 +1,20 @@
-<div align="center">
- 
-# Hey, I'm Prachi Chauhan 👩‍💻
+# Prachi Chauhan
 
-### Full Stack Developer • DSA Enthusiast • Open to Internships 2026 
-
-###                        B.Tech CSE @ AKTU (2027)                 
+**Full Stack Developer | B.Tech CSE, AKTU (2027)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachitechvision)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/Prachi_chauhan_006)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prachisisodia222@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=prachichauhan006&color=00ff88&style=flat-square)
+---
 
-</div>
+##  About Me
+
+Third-year Computer Science student at AKTU, currently focused on full-stack development. I build projects to learn by doing — from REST APIs to frontend interfaces. Still growing my DSA skills and exploring how things work end to end. Open to Python / Software Engineering internships in 2026 where I can contribute and learn in a real environment.
 
 ---
 
-## 🙋‍♀️ About Me
-
-```python
-prachi = {
-    "role"       : "Full Stack Developer" ,
-    "college"    : "AKTU — B.Tech CSE, 2027",
-    "building"   : "DevPulse — GitHub Analytics Dashboard",
-    "dsa"        : "150+ LeetCode problems solved",
-    "exploring"  : ["full stack development"],
-    "open_to"    : "Python / Software Engineering Internships 2026"
-}
-```
-
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -55,54 +38,22 @@ prachi = {
 
 
 ---
+## Projects
 
-## 🚀 Featured Projects
+**DevPulse** — GitHub analytics dashboard with OAuth login, commit heatmaps, and PR tracking.
+`React.js · FastAPI · GitHub REST API` — [Repo](https://github.com/prachichauhan006/devpulse-analyzer)
 
-### 🔍 DevPulse — Developer Productivity & Code Health Analyzer 
+**Job Application Tracker** — Tracks job applications and sends automatic follow-up emails.
+`Python · openpyxl · smtplib` — [Repo](https://github.com/prachichauhan006/job-tracker)
 
-> A full-stack GitHub analytics dashboard that helps developers track their productivity, code health, and contribution patterns.
-
-- 🔐 GitHub OAuth login — secure, seamless authentication
-- 📊 Commit activity heatmaps & PR tracking with Recharts
-- 👥 Contributor stats & repository health insights
-- ⚡ FastAPI backend with async GitHub REST API calls
-
-**Stack:** `React.js` `FastAPI` `Python` `GitHub REST API` `Recharts` `OAuth2`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prachichauhan006/devpulse-analyzer)
+**Snake Game** — Classic snake built with vanilla JavaScript and DOM manipulation, no libraries.
+`HTML · CSS · JavaScript` — [Repo](https://github.com/prachichauhan006/snake-game)
 
 ---
 
-### 📋 Smart Job Application Tracker
-
-> A Python automation tool that takes the stress out of job hunting — tracks applications and auto-sends follow-up reminders.
-
-- 📧 Auto email reminders 7 days after applying — built with smtplib
-- 📁 Stores all application data in Excel via openpyxl
-- 🔒 Credentials managed securely with python-dotenv
-- 🏗️ Clean OOP architecture — easy to extend
-
-**Stack:** `Python` `OOPs` `openpyxl` `smtplib` `python-dotenv`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prachichauhan006/job-tracker)
-
 ---
 
-### 🐍 Snake Game — DOM Edition
-
-> Classic Snake game built from scratch using pure JavaScript and DOM manipulation — no canvas, no libraries.
-
-- 🎮 Smooth keyboard controls with real-time DOM updates
-- 🏆 Score tracking & increasing difficulty as snake grows
-- 💡 Demonstrates deep understanding of DOM, event handling & game loops
-
-**Stack:** `HTML` `CSS` `JavaScript` `DOM Manipulation`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prachichauhan006/snake-game)
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="160"/>
@@ -115,7 +66,7 @@ prachi = {
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
