@@ -41,11 +41,12 @@ Third-year Computer Science student at AKTU, currently focused on full-stack dev
 ## Projects
 **DevPulse — GitHub Analytics Dashboard**
 A full-stack dashboard that visualizes developer activity and repository health using the GitHub REST API. Implemented OAuth2 authentication, async API handling with FastAPI, and interactive data charts with Recharts.
-React.js.FastAPI · Python · GitHub REST API  — Repo
+React.js.FastAPI · Python · GitHub REST API  — [Repo](https://github.com/prachichauhan006/devpulse-analyzer)
+
 
 **Job Application Tracker — Python Automation Tool**
 Built a CLI-based automation tool to manage job applications end-to-end — tracks status, stores records in Excel, and triggers follow-up emails automatically after 7 days using smtplib.
-Python · openpyxl · smtplib · python-dotenv — Repo
+Python · openpyxl · smtplib · python-dotenv — [Repo](https://github.com/prachichauhan006/job-tracker)
 
 ---
 
