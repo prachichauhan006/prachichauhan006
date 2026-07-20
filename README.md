@@ -39,24 +39,19 @@ I have solved 250+ problems on LeetCode and enjoy building practical software, i
 
 ---
 
-Projects
-🤖 AI Debugging Agent
+## Projects
 
-An agentic pipeline that diagnoses, fixes, and validates code bugs automatically. Parses tracebacks and runs a 3-step reasoning flow, backed by a passing pytest suite.
+**AI Debugging Agent**
+An agentic bug-fixing pipeline built with FastAPI + LangChain + Groq API (Llama 3.3 70B). Parses tracebacks, then runs a 3-tool flow — diagnose → fix → validate — backed by a passing pytest suite.
+`FastAPI` `LangChain` `Groq API` `Python`
 
-FastAPI LangChain Groq API (Llama 3.3 70B) Python
+**DevPulse — GitHub Analytics Dashboard**
+Full-stack dashboard visualizing developer activity and repository health via the GitHub REST API. OAuth2 authentication, async API handling with FastAPI, interactive charts with Recharts.
+`React` `FastAPI` `Python` `GitHub REST API` — [Repo](https://github.com/prachichauhan006/devpulse-analyzer)
 
-📊 DevPulse — GitHub Analytics Dashboard
-
-A full-stack dashboard that turns raw GitHub activity into visual insights on developer productivity and repo health, with secure OAuth2 login and live async data fetching.
-
-React FastAPI Python GitHub REST API → View Repo
-
-🔐 AirPay — Offline UPI Simulation
-
-A payment system that works without internet — routes transactions over WiFi relay nodes, secured end-to-end with RSA-2048 encryption.
-
-Python RSA-2048 TCP Sockets Tkinter → View Repo
+**AirPay — Offline UPI Simulation**
+Simulates UPI payments over WiFi relay nodes with no internet needed. RSA-2048 encryption, TCP sockets, Tkinter UI.
+`Python` `RSA-2048` `TCP Sockets` `Tkinter` — [Repo](https://github.com/prachichauhan006/AirPay)
 
 ---
 
