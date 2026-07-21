@@ -20,6 +20,7 @@ I have solved 250+ problems on LeetCode and enjoy building practical software, i
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,22 +42,37 @@ I have solved 250+ problems on LeetCode and enjoy building practical software, i
 
 ## Projects
 
-**AI Debugging Agent**
-An agentic bug-fixing pipeline built with FastAPI + LangChain + Groq API (Llama 3.3 70B). Parses tracebacks, then runs a 3-tool flow — diagnose → fix → validate — backed by a passing pytest suite.
-`FastAPI` `LangChain` `Groq API` `Python`
+### 🤖 AI Debugging Agent
+An agentic pipeline that diagnoses, fixes, and validates code bugs automatically. Parses tracebacks and runs a 3-step reasoning flow, backed by a passing pytest suite.
 
-**DevPulse — GitHub Analytics Dashboard**
-Full-stack dashboard visualizing developer activity and repository health via the GitHub REST API. OAuth2 authentication, async API handling with FastAPI, interactive charts with Recharts.
-`React` `FastAPI` `Python` `GitHub REST API` — [Repo](https://github.com/prachichauhan006/devpulse-analyzer)
+`FastAPI` `LangChain` `Groq API (Llama 3.3 70B)` `Python`
 
-**AirPay — Offline UPI Simulation**
-Simulates UPI payments over WiFi relay nodes with no internet needed. RSA-2048 encryption, TCP sockets, Tkinter UI.
-`Python` `RSA-2048` `TCP Sockets` `Tkinter` — [Repo](https://github.com/prachichauhan006/AirPay)
+---
+
+### 📊 DevPulse — GitHub Analytics Dashboard
+A full-stack dashboard that turns raw GitHub activity into visual insights on developer productivity and repo health, with secure OAuth2 login and live async data fetching.
+
+`React` `FastAPI` `Python` `GitHub REST API` → [View Repo](https://github.com/prachichauhan006/devpulse-analyzer)
+
+---
+
+### 🔐 AirPay — Offline UPI Simulation
+A payment system that works without internet — routes transactions over WiFi relay nodes, secured end-to-end with RSA-2048 encryption.
+
+`Python` `RSA-2048` `TCP Sockets` `Tkinter` → [View Repo](https://github.com/prachichauhan006/AirPay)
 
 ---
 
 ## GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" height="160"/> </p> <div align="center"> <img src="https://streak-stats.demolab.com?user=prachichauhan006&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachichauhan006&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachichauhan006&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" height="160"/>
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prachichauhan006&theme=dark&hide_border=true&background=000000" height="220" alt="streak graph" />
+</div>
 
 ---
 
@@ -69,10 +85,9 @@ Simulates UPI payments over WiFi relay nodes with no internet needed. RSA-2048 e
 ---
 
 <div align="center">
-
-*"Ship projects. Learn by building. Improve every day."*
-
+<i>"Ship projects. Learn by building. Improve every day."</i>
 </div>
+
 
 
 
